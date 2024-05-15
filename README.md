@@ -3,7 +3,7 @@
 <h1 align="center">Hi There, I'm Reverse2Amin 👋</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reverse2Amin&style=for-the-badge&label=Visitor" />
+ 
   <br>
   
 </div>
