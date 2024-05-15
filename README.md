@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Reverse2Amin&style=for-the-badge&label=Visitor" />
   <br>
-  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="Reverse2Amin.fx407@passmail.net" /></a>
+  
 </div>
 
 <picture>
