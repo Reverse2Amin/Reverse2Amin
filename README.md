@@ -3,9 +3,9 @@
 <h1 align="center">Hi There, I'm Reverse2Amin 👋</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor" />
+  <img src="https://komarev.com/ghpvc/?username=Reverse2Amin&style=for-the-badge&label=Visitor" />
   <br>
-  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
+  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="Reverse2Amin.fx407@passmail.net" /></a>
 </div>
 
 <picture>
@@ -137,9 +137,6 @@
       <a href="https://www.microsoft.com/en-gb/windows/">
         <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
       </a>
-      <a href="https://www.kali.org">
-        <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white"/>
-      </a>
       <a href="https://www.apple.com">
         <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
       <a href="https://ubuntu.com/">
@@ -163,14 +160,14 @@
 
 <div align=center>
 <a href="https://github.com/an0n-00/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverse2Amin-00&layout=donut&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverse2Amin&layout=donut&theme=transparent" />
 </a>
 <br>
 <a href="https://github.com/an0n-00/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Reverse2Amin-00&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Reverse2Amin&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8" />
 </a>
 <a href="https://github.com/an0n-00">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reverse2Amin-00&theme=cobalt&border_radius=8" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reverse2Amin&theme=cobalt&border_radius=8" />
 </a>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
