@@ -155,6 +155,7 @@
 | Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
 | :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
 | Backup  | [Backup system](https://github.com/Reverse2Amin/Backup_System) |  [GitHub](https://github.com/Reverse2Amin/Backup_System)   | `Ubuntu` `Visual Studio Code` |
+| Backup  | [CS:GO Hub Website] (https://github.com/Reverse2Amin/M431Project) |  [GitHub](https://github.com/Reverse2Amin/M431Project)   |`Visual Studio Code` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
