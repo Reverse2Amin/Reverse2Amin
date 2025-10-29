@@ -30,7 +30,7 @@ I'm currently focused on improving both my backend and frontend skills and build
 ---
 
 ## ⚙️ Tools & Technologies
-🧠 Visual Studio Code • IntelliJ IDEA • GitHub • MySQL • Figma • Postman  
+🧠 Visual Studio Code • IntelliJ IDEA • GitHub • MySQL 
 
 ---
 
@@ -42,9 +42,9 @@ I'm currently focused on improving both my backend and frontend skills and build
 ---
 
 ## 📫 Contact
-📧 **Email:** _your.email@example.com_  
-🌐 **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*  
-💬 **LinkedIn / Instagram / etc.:** _yourprofile_
+📧 **Email:** salembokretache@gmail.com  
+/*🌐 **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*/ 
+
 
 ---
 
