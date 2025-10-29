@@ -25,8 +25,6 @@ I'm currently focused on improving both my backend and frontend skills and build
 | **SQL** | 💾 Intermediate | ![Progress](https://progress-bar.dev/65/?title=65%) |
 | **Git / GitHub** | 🛠️ Good | ![Progress](https://progress-bar.dev/75/?title=75%) |
 
-*(You can adjust the percentages however you like!)*
-
 ---
 
 ## ⚙️ Tools & Technologies
