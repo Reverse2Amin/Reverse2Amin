@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey there, I'm <Amin>
 
-<!--
-**Reverse2Amin/Reverse2Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Apprentice Software Developer (Application Development)**  
+🏫 **BWZ Rapperswil (Switzerland)**  
+📅 Currently in my **2nd year of apprenticeship**  
+💡 **Age:** 17  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate software developer in training who loves learning about **clean code**, **modern technologies**, and **creative projects**.  
+I'm currently focused on improving both my backend and frontend skills and building exciting school and personal projects.
+
+---
+
+## 💻 Programming Languages & Skills
+
+| Language / Technology | Level | Progress |
+|------------------------|--------|-----------|
+| **Java** | 🔥 Advanced | ![Progress](https://progress-bar.dev/80/?title=80%) |
+| **Python** | 😎 Good | ![Progress](https://progress-bar.dev/70/?title=70%) |
+| **JavaScript / TypeScript** | 💡 Intermediate | ![Progress](https://progress-bar.dev/60/?title=60%) |
+| **HTML / CSS** | 🎨 Good | ![Progress](https://progress-bar.dev/75/?title=75%) |
+| **C#** | 🧩 Basic Knowledge | ![Progress](https://progress-bar.dev/40/?title=40%) |
+| **SQL** | 💾 Intermediate | ![Progress](https://progress-bar.dev/65/?title=65%) |
+| **Git / GitHub** | 🛠️ Good | ![Progress](https://progress-bar.dev/75/?title=75%) |
+
+*(You can adjust the percentages however you like!)*
+
+---
+
+## ⚙️ Tools & Technologies
+🧠 Visual Studio Code • IntelliJ IDEA • GitHub • MySQL • Figma • Postman  
+
+---
+
+## 🌱 Currently Learning
+- Web development with **React**
+- Object-oriented programming with **Java**
+- **Software testing** and **clean code principles**
+
+---
+
+## 📫 Contact
+📧 **Email:** _your.email@example.com_  
+🌐 **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*  
+💬 **LinkedIn / Instagram / etc.:** _yourprofile_
+
+---
+
+⭐️ *If you like one of my projects, feel free to leave a star!*
