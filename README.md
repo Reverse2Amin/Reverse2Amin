@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm <Amin>
+# 👋 Hey there, I'm Amin
 
 🎓 **Apprentice Software Developer (Application Development)**  
 🏫 **BWZ Rapperswil (Switzerland)**  
