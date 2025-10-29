@@ -43,7 +43,6 @@ I'm currently focused on improving both my backend and frontend skills and build
 
 ## 📫 Contact
 📧 **Email:** salembokretache@gmail.com  
-/*🌐 **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)**/ 
 
 
 ---
